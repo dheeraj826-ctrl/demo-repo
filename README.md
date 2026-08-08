@@ -1,4 +1,4 @@
 # demo-repo
 this is my first Git Repository.
 <br>
-Author - Dheeraj Borana
+Author - Dheeraj Borana(Mechanical / Software Engineer)
